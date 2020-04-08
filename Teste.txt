@@ -1,1 +1,4 @@
-Alterações no arquivo de teste.
+Alterações no arquivo de teste
+
+
+Novas alterações para commitar.
